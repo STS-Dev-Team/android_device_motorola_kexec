@@ -3,3 +3,4 @@ ifdef BOARD_USES_KEXEC
     COMMON_GLOBAL_CFLAGS += -DBOARD_USES_KEXEC
 endif
 
+BOARD_VENDOR := motorola-omap4-kexec
